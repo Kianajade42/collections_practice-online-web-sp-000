@@ -25,8 +25,8 @@ integers.reverse
 end
 
 def kesha_maker
-  integers.each do |item|
-     item[2] = "$"
+  words.each do |swap|
+     swap[2] = "$"
    end
 end
 
