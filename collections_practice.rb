@@ -43,6 +43,12 @@ def sum_array(integers)
 end
 end
 
-def add_s(integers)
-
+def add_s(words)
+  words.collect do |adds|
+     if words[1] == adds
+       adds
+     else
+       adds + "s"
+     end
+   end
 end
