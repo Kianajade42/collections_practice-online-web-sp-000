@@ -3,7 +3,7 @@ def sort_array_asc(integers)
   integers.sort
 end
  def sort_array_desc(integers)
-    
+
 end
 
 def sort_array_char_count(integers)
@@ -16,11 +16,11 @@ end
 
 def reverse_array(integers)
 
-end 
+end
 
 def kesha_maker
 
-end 
+end
 
 def find_a(integers)
 
@@ -32,4 +32,4 @@ end
 
 def add_s(integers)
 
-end 
+end
