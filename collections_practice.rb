@@ -24,7 +24,9 @@ integers.reverse
 end
 
 def kesha_maker
-
+  array.each do |item|
+     item[2] = "$"
+   end
 end
 
 def find_a(integers)
