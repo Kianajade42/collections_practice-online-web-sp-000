@@ -24,7 +24,7 @@ def reverse_array(integers)
 integers.reverse
 end
 
-def kesha_maker
+def kesha_maker(words)
   words.each do |swap|
      swap[2] = "$"
    end
