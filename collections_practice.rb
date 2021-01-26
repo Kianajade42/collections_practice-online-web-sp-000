@@ -37,11 +37,11 @@ end
 end
 
 def sum_array(integers)
-  sum = 0
-  integers.each do |num|
-    sum+=num
+sum=0
+integers.each do |equal|
+  sum+=equal
 end
-end
+sum
 
 def add_s(words)
   words.collect do |adds|
