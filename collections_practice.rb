@@ -42,6 +42,7 @@ integers.each do |equal|
   sum+=equal
 end
 sum
+end
 
 def add_s(words)
   words.collect do |adds|
