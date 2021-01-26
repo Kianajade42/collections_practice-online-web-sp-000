@@ -38,8 +38,8 @@ end
 
 def sum_array(integers)
   sum = 0
-  integers.each do |add|
-    sum+=add
+  integers.each do |num|
+    sum+=num
 end
 end
 
