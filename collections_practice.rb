@@ -24,7 +24,7 @@ integers.reverse
 end
 
 def kesha_maker
-  array.each do |item|
+  integers.each do |item|
      item[2] = "$"
    end
 end
