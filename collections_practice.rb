@@ -1,4 +1,4 @@
-integers=[7,9,4,3,"one","two","six"]
+integers=[7,9,4,3,6,2,8]
 def sort_array_asc(integers)
   integers.sort
 end
