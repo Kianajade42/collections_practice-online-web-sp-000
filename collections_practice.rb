@@ -34,6 +34,7 @@ def find_a(words)
   words.find_all do |search|
       search[0] == "a"
 end
+end
 
 def sum_array(integers)
 
