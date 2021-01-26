@@ -1,4 +1,5 @@
 integers=[7,9,4,3,6,2,8]
+words=["sally","coffee","she","bye"]
 def sort_array_asc(integers)
   integers.sort
 end
