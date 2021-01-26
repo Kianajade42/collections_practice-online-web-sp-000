@@ -9,7 +9,9 @@ end
 end
 
 def sort_array_char_count(integers)
-
+  integers.sort do |left, right|
+      left.length <=> right.length
+    end
 end
 
 def swap_elements(integers)
